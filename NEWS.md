@@ -1,3 +1,8 @@
+v0.6-1 (2014-11-20)
+===
+
+* Fixed load.project() to load libraries before loading files from lib/
+
 v0.6 (2014-10-05)
 ===
 
